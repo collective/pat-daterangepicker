@@ -1,0 +1,15 @@
+{
+  "name": "pat-daterangepicker",
+  "version": "0.0.1",
+  "keywords": [
+    "patternslib",
+    "pattern"
+  ],
+  "dependencies": {},
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "bower": "latest",
+    "requirejs": "",
+    "http-server": ""
+  }
+}

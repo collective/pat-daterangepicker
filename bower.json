@@ -1,0 +1,25 @@
+{
+  "name": "pat-daterangepicker",
+  "version": "0.0.1",
+  "devDependencies": {},
+  "dependencies": {
+    "patternslib": "master",
+    "daterangepicker": "dangrossman/daterangepicker#^3.0.5",
+    "requirejs": "master",
+    "logging": "master",
+    "jquery.browser": "master"
+  },
+  "resolutions": {
+    "jquery": "1.11.1",
+    "daterangepicker": "master"
+  },
+  "keywords": [
+    "patternslib",
+    "pattern"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ]
+}
