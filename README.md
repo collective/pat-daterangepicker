@@ -11,3 +11,5 @@ make all
 ```
 
 Then visit port localhost:4001 in your browser
+
+<input class="pat-daterangepicker">

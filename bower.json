@@ -7,11 +7,11 @@
     "daterangepicker": "dangrossman/daterangepicker#^3.0.5",
     "requirejs": "master",
     "logging": "master",
-    "jquery.browser": "master"
+    "jquery.browser": "master",
+    "underscore": "master"
   },
   "resolutions": {
-    "jquery": "1.11.1",
-    "daterangepicker": "master"
+    "jquery": "1.11.1"
   },
   "keywords": [
     "patternslib",

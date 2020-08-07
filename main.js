@@ -31,7 +31,8 @@ require.config({
     }, wrapShim: true
 });
 
-require(["pat-registry", "pat-daterangepicker"], function(registry, pattern) {
+require(["pat-registry", "pat-daterangepicker"], 
+      function(registry, pattern) {
     // your pattern is found via it's name in the filesystem, starting from the
     // requireJS baseUrl option: "pat-daterangepicker"
     window.patterns = registry;
